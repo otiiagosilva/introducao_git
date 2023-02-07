@@ -1,2 +1,6 @@
 # introducao_git
-Meu primeiro repositório para aula de Analise de dados
+Meu primeiro repositório em git e github para aula de Analise de dados
+
+## Objetivos ##
+
+Apresentação de MARkDOWN
